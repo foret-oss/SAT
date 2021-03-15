@@ -1,0 +1,29 @@
+﻿  源.cpp
+C:\Users\86158\Desktop\exp\SAT\源.cpp(2,9): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+C:\Users\86158\Desktop\exp\SAT\cnfParser.h(8,1): warning C4005: “FALSE”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\minwindef.h(71): message : 参见“FALSE”的前一个定义
+C:\Users\86158\Desktop\exp\SAT\cnfParser.h(10,1): warning C4005: “OVERFLOW”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt_math.h(967): message : 参见“OVERFLOW”的前一个定义
+C:\Users\86158\Desktop\exp\SAT\cnfParser.h(44,2): warning C4091: “typedef ”: 没有声明变量时忽略“CNF”的左侧
+C:\Users\86158\Desktop\exp\SAT\DPLL.h(335,26): warning C4101: “m1”: 未引用的局部变量
+C:\Users\86158\Desktop\exp\SAT\DPLL.h(336,6): warning C4101: “i”: 未引用的局部变量
+C:\Users\86158\Desktop\exp\SAT\DPLL.h(374,56): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\86158\Desktop\exp\SAT\DPLL.h(377,57): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\86158\Desktop\exp\SAT\shudu.h(292,12): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+C:\Users\86158\Desktop\exp\SAT\shudu.h(295,9): warning C4101: “j”: 未引用的局部变量
+C:\Users\86158\Desktop\exp\SAT\shudu.h(324,10): warning C4101: “j”: 未引用的局部变量
+C:\Users\86158\Desktop\exp\SAT\shudu.h(413,12): warning C4101: “k”: 未引用的局部变量
+C:\Users\86158\Desktop\exp\SAT\shudu.h(413,9): warning C4101: “j”: 未引用的局部变量
+C:\Users\86158\Desktop\exp\SAT\shudu.h(510,30): warning C4244: “=”: 从“double”转换到“clock_t”，可能丢失数据
+C:\Users\86158\Desktop\exp\SAT\shudu.h(481,9): warning C4101: “j”: 未引用的局部变量
+C:\Users\86158\Desktop\exp\SAT\shudu.h(481,6): warning C4101: “i”: 未引用的局部变量
+C:\Users\86158\Desktop\exp\SAT\shudu.h(574,9): warning C4101: “j”: 未引用的局部变量
+C:\Users\86158\Desktop\exp\SAT\shudu.h(605,15): warning C4101: “m”: 未引用的局部变量
+C:\Users\86158\Desktop\exp\SAT\shudu.h(605,18): warning C4101: “n”: 未引用的局部变量
+C:\Users\86158\Desktop\exp\SAT\shudu.h(1209,23): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\86158\Desktop\exp\SAT\shudu.h(1212,23): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\86158\Desktop\exp\SAT\shudu.h(1215,23): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\86158\Desktop\exp\SAT\源.cpp(29,7): warning C4101: “ch”: 未引用的局部变量
+C:\Users\86158\Desktop\exp\SAT\cnfParser.h(163): warning C4715: “sortmax”: 不是所有的控件路径都返回值
+C:\Users\86158\Desktop\exp\SAT\DPLL.h(89): warning C4715: “isUnitClause”: 不是所有的控件路径都返回值
+  SAT.vcxproj -> C:\Users\86158\Desktop\exp\SAT\Debug\SAT.exe
